@@ -18,4 +18,4 @@ The **Library Management System** is a software application designed to manage a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/chavankrishna/Library_Management_System.git
